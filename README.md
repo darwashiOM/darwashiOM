@@ -40,7 +40,6 @@ I take products from the first commit to something live. Most of my work has bee
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**the-straight-path**](https://github.com/darwashiOM/the-straight-path) | An accessible, multilingual introduction to Islam ([live](https://the-straight-path-tsp.web.app)) | React · Vite · Firebase · TypeScript |
 | [**meeting-copilot**](https://github.com/darwashiOM/meeting-copilot) | AI meeting copilot for the terminal: local transcription + suggestions | Python |
 | [**realtime-context-tui**](https://github.com/darwashiOM/realtime-context-tui) | Live audio transcription + BM25 retrieval streamed into a TUI | Python · Textual |
 | [**notebooklm-clone**](https://github.com/darwashiOM/notebooklm-clone) | Turns your sources into a two-host podcast | TypeScript · OpenAI · Kokoro TTS |
